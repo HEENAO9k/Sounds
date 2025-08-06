@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "TikTok: @betmc2411 [https://tiktok.com/@betmc2411]\nNOTE: REQUIRED RESOURCE PACK BetMC UI v1-beta 2 OR NEWER",
+    "name": "พันช์รักแมว",
+    "uuid": "08284d02-e05e-479f-914d-1865ff060ed8",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 17, 0 ]
+  },
+  "subpacks": [
+    { "folder_name": "0", "name": "§bNo Animation (Static Background)", "memory_tier": 2 },
+    { "folder_name": "1080", "name": "§d 1080P 30FPS Quality [HIGHER PERFORMANCE REQUIREMENTS]", "memory_tier": 2 }
+  ],
+  "modules": [
+    {
+      "description": "BY AMN",
+      "type": "resources",
+      "uuid": "6c8305b9-9ba2-4be2-86f0-bfb82bc17da2",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
